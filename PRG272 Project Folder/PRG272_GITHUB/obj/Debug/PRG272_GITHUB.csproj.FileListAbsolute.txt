@@ -1,0 +1,11 @@
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\bin\Debug\PRG272_GITHUB.exe.config
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\bin\Debug\PRG272_GITHUB.exe
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\bin\Debug\PRG272_GITHUB.pdb
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.csproj.AssemblyReference.cache
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.MainForm.resources
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.Properties.Resources.resources
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.ReportSummary.resources
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.csproj.GenerateResource.cache
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.csproj.CoreCompileInputs.cache
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.exe
+C:\Users\jason\Source\Repos\ZhenMingChen\PRG272_GITHUB\obj\Debug\PRG272_GITHUB.pdb
